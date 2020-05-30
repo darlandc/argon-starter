@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+.section-shaped .shape-style-1.shape-primary {
+    background: url('./assets/bg01.jpg')!important;
+    background-size: 100%!important;
+}
+.lead {
+        font-weight: 600!important;
+        font-size: 38px!important;
+        color: black!important;
+}
+#logo {
+    background: url('./assets/logo.png');
+    width: 100%;
+}
