@@ -18,4 +18,8 @@ export class HomeComponent implements OnInit {
     constructor() { }
 
     ngOnInit() {}
+
+    tap(magicString) {
+        console.log(magicString);
+    }
 }

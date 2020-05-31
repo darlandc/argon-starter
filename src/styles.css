@@ -8,7 +8,10 @@
         font-size: 38px!important;
         color: black!important;
 }
-#logo {
-    background: url('./assets/logo.png');
-    width: 100%;
+
+@media only screen and (max-width: 600px) {
+    .section-shaped .shape-style-1.shape-primary {
+        background: url('./assets/bg01.jpg')!important;
+        background-size: 320%!important;
+    }
 }
