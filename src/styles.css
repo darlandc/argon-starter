@@ -6,7 +6,7 @@
 .lead {
         font-weight: 600!important;
         font-size: 38px!important;
-        color: black!important;
+        color: #FFF!important;
 }
 
 @media only screen and (max-width: 600px) {
